@@ -77,6 +77,7 @@ term.clear()
 -- Commands
 if nOption == 1 then
 --shell.run("ios/.command.lua")
+shell.run("clear")
 elseif nOption == 2 then
 shell.run("ios/.programs.lua")
 elseif nOption == 3 then
