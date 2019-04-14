@@ -1,0 +1,2 @@
+TODO:
+- Make menu system into an API (ie drawMenu(str[] options, str[] commands))
