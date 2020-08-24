@@ -1,2 +1,2 @@
 TODO:
-- Make menu system into an API (ie drawMenu(str[] options, str[] commands))
+-  Clean up system menu code (ie drawMenu(str[] options, str[] commands))
